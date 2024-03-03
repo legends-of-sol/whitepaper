@@ -1,5 +1,5 @@
 
-# Legends of SOL Whitepaper - v0.1.0
+# Legends of SOL Whitepaper - v0.0.0 - DRAFT
 
 ## Key links
 
