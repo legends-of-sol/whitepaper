@@ -5,7 +5,11 @@
 
 - **Website:** [LegendsOfSOL.com](https://LegendsOfSOL.com)
 - **Twitter:** [twitter.com/Legends_of_SOL](https://twitter.com/Legends_of_SOL)
-- **Discord:** [discord.gg/hPq4RCzeeD](https://discord.gg/hPq4RCzeeD)
+- **Discord:** [discord.gg/legendsofsol](https://discord.gg/legendsofsol)
+- **The Choice MP:** [tensor.trade/trade/the_choice](https://www.tensor.trade/trade/the_choice)
+- **$LEGEND ticker:** [birdeye.so/token/LGNDeXXXaDDeRerwwHfUtPBNz5s6vrn1NMSt9hdaCwx](https://birdeye.so/token/LGNDeXXXaDDeRerwwHfUtPBNz5s6vrn1NMSt9hdaCwx?chain=solana)
+- **Coingecko Listing:** [coingecko.com/en/coins/legends-of-sol](https://www.coingecko.com/en/coins/legends-of-sol)
+- **Buy $LEGEND:** [jup.ag/swap/SOL-LEGEND](https://jup.ag/swap/SOL-LEGEND)
 
 ## Introduction
 
@@ -61,13 +65,13 @@ The success of Legends to date is primarily because of the team. Since we first 
 
 ## Discord Community
 
-Invite Link: [discord.gg/hPq4RCzeeD](https://discord.gg/hPq4RCzeeD)
+Invite Link: [discord.gg/legendsofsol](https://discord.gg/legendsofsol)
 
-The Legends of SOL Discord community has been a cornerstone of our project, providing a vibrant platform for engagement, support, and collaboration. With over 2,273 members and growing, our Discord has become a hub for discussions, announcements, and community-driven initiatives. Here's a brief overview of our Discord community's growth and activities:
+The Legends of SOL Discord community has been a cornerstone of our project, being the central platform for engagement, support, and collaboration. With over 2,273 members and growing, our Discord has become a hub for discussions, announcements, and community-driven initiatives. Here's a brief overview of our Discord community's growth and activities:
 
 - **Member Growth:** Since the launch of Legends of SOL, our Discord community has seen a significant increase in membership, with 2,273 new members joining the ranks of Legends. This growth is a testament to the project's appeal and the engaging environment we've fostered.
 
-- **Engagement:** Our community is highly active, with members participating in discussions across various channels. From general chat to specific topics related to NFTs, tokenomics, and development updates, there's always a robust conversation happening.
+- **Engagement:** Our community is highly active with 1583 weekly active visitors, and 438 members participating in discussions across various channels. From general chat to specific topics related to NFTs, tokenomics, and development updates, there's always a robust conversation happening.
 
 - **Support and Collaboration:** The Discord server serves as a primary support channel for our members. Whether it's technical assistance, questions about the project, or ideas for collaboration, our team and community are always ready to help.
 
@@ -79,16 +83,16 @@ As Legends of SOL continues to evolve, our Discord community remains at the hear
 
 ## $LEGEND Tokenomics
 
-The $LEGEND token serves as the primary currency within the Legends of SOL ecosystem, facilitating transactions, access to exclusive roles/features, and community decision-making. With a max total supply of 4,206,969,420 tokens, $LEGEND's distribution was carefully planned to ensure a balanced ecosystem. The tokenomics include allocations for airdrops, community rewards, and a development fund to support ongoing growth and partnerships.
+The $LEGEND token serves as the primary currency within the Legends of SOL ecosystem, facilitating transactions, access to exclusive roles/features, and community decision-making. With a max total supply of ℒ4,206,969,420 tokens, $LEGEND's distribution was carefully planned to ensure a balanced ecosystem. The tokenomics include allocations for airdrops, community rewards, and a development fund to support ongoing growth and partnerships.
 
 - **Public Name:** Legends of SOL
 - **Token Address:** LGNDeXXXaDDeRerwwHfUtPBNz5s6vrn1NMSt9hdaCwx
 - **Coingecko Listing:** https://www.coingecko.com/en/coins/legends-of-sol
 - **Ticker:** https://birdeye.so/token/LGNDeXXXaDDeRerwwHfUtPBNz5s6vrn1NMSt9hdaCwx?chain=solana
-- **Max Total Supply:** 4,206,969,420 Legends tokens (Non-mintable)
+- **Max Total Supply:** ℒ4,206,969,420 Legends tokens (Non-mintable)
 - **Utility:** $LEGEND tokens serve as the primary currency within the Legends of SOL ecosystem, enabling transactions, access to exclusive features, and participation in community decisions.
 
-### Distribution
+### Distribution Structure
 
 - **Airdrop Allocation:** ℒ662,000,000 $LEGEND tokens (15.7%) distributed - Airdrop claim to early supporters and community members.
 - **Airdrop Overflow:** ℒ389,742,355 $LEGEND tokens (9.25%) - Overflow from the airdrop claim, Distribution TBD.
@@ -103,7 +107,7 @@ The $LEGEND token serves as the primary currency within the Legends of SOL ecosy
 
 ## Future Plans
 
-As Legends of SOL continues to evolve we have a clear vision for the future of the project. Our vision is to not only enhance the value and utility of "The Choice" NFT within our ecosystem but also to deliver innovative features that revolutionize the NFT landscape on Solana. By introducing dynamic, hot-swappable traits and leveraging sentiment analysis for deeper market insights, our future plans are designed to foster a sustainable, vibrant, and interconnected community trait market place. Here, we outline the key initiatives that will drive the next phase of growth for Legends of SOL, building on our huge initial successes to date.
+As Legends of SOL continues to evolve, we have a clear vision for the future to add real utility to "The Choice" through hot-swappable traits, a trait market-place and NFT sentiment analysis tooling. By introducing dynamic, hot-swappable traits we aim to create a circular economy not only for Lengends of SOL traits, but for the whole Solana NFT ecosystem. This is what we are in the process of executing in the coming weeks.
 
 ### The Choice NFT
 
@@ -119,21 +123,23 @@ As Legends of SOL continues to evolve we have a clear vision for the future of t
   - **Legendary Traits:** Priced at ℒ420690 each, these traits offer highly unique and distinctive customization options, adding significant value and rarity.
   - **MYTHIC Trait:** A single, extremely rare trait named "The King Without Choices," available at a to-be-determined price.
 - **Economic Utility:** Traits can be purchased with $LEGEND tokens, and will be able to be sold via a trait market place, and created for partners and events, introducing a circular economy for traits within the Solana NFT ecosystem.
+- **Trait Market Place:** Delivered in a second round once the initial Legends NFT traits have been delivered and refined.
 
 ### The Chooser
 
-In our pursuit to redefine the Solana NFT landscape, we are excited to introduce "The Chooser" - an innovative platform that will allow NFT owners to personalize and upgrade their NFTs with hot-swappable traits. This groundbreaking feature promises to add a new layer of interactivity and customization, making each NFT not just a piece of art but a reflection of its owner's unique identity and choices.
+The Chooser is a platform that will allow NFT owners to personalize and upgrade their NFTs with hot-swappable traits. All of the traits of Legends, are going to be made up of an assortment of the best traits across the Solana NFT ecosystem, a set of Legendary Solana NFT traits if you will. This also opens the door for our partner projects to have official partner traits that can further build attention, where we can make project specific experiences based on traits from specific collections to generate collabs and engagement. Combined with a market place API and the ability to engineer NFT collections imbued with different token and trait mechanics, the trait mechanics will be like nothing thats ever been built in the NFT space on any chain in the history of crypto.
 
 ### Sentiment Analysis of NFTs
 
-Recognizing the dynamic nature of the NFT market, Legends of SOL is set to embark on a novel approach to understanding and leveraging market sentiment. By developing tools and platforms that analyze sentiment data, we aim to provide our community and partners with actionable insights that go beyond traditional transactional data. This sentiment-driven analysis will empower creators and collectors alike, fostering a more connected and responsive ecosystem.
+Recognizing the emotional nature of the NFT market, Legends of SOL is pushing into sentiment analysis for NFTs. By developing tools and platforms that analyze sentiment data, we aim to provide our community and partners with actionable insights that go beyond the purely transactional data that has defined the analytics space to date. This sentiment-driven analysis will again link back into partner NFT projects to allow them to streamline their trait and character offering. It will also enable Legends of SOL to consult on NFT projects looking to deliver lore and artwork that is the most up to date with the current space zeitgeist.
 
 ### Sustainable Ecosystem Growth
 
-Our future plans are primarily focused to creating a circular NFT economy based on traits for stakeholders. Through strategic partnerships, continuous platform enhancements, and a commitment to adding value, Legends of SOL is poised to lead the charge in the next wave of NFT evolution. We are dedicated to building a legacy that transcends the current market trends, focusing on long-term growth and the continuous delivery of value to our community and the Solana ecosystem at large.
+The core of our future goals is to create a circular NFT economy based on traits and sentiment data for stakeholders. Through our existing and future partnerships, continuous platform delivery, and a team firmly based in the foundation of Solana NFT culture, Legends of SOL is poised to be a big part of the next wave of the NFT cycle. We are a project focused on long-term growth and the continuous delivery of value to our community, partners and the Solana ecosystem at large.
 
 ## Conclusion
 
-With a strong seasoned team, a high profile brand within Solana and a clear vision for the future, we are on a path to creating unparalleled value for our community and all Solana NFT projects we have partnered with. Join us as we embark on this exciting journey to reshape the Solana NFT landscape and super-charge the potential of every NFT project within the Solana ecosystem.
+With a seasoned team of experienced individuals, a high profile brand within Solana and a clear vision for the future, we are on a path to creating real value for our community and all Solana NFT projects we have partnered with. At this stage there are no OTC or VC opportunities open, and the sole way to engage is via the market. If you'd like to be part of this journey to super-charge the potential of every NFT project within the Solana ecosystem, you can puchase a [Choice NFT](https://www.tensor.trade/trade/the_choice) or [$LEGEND tokens]((https://jup.ag/swap/SOL-LEGEND)
+), join our Discord and share in the vision.
 
 LFG! 🚀🚀🚀
