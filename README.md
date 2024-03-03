@@ -1,5 +1,5 @@
 
-# Legends of SOL Whitepaper
+# Legends of SOL Whitepaper - v0.1.0
 
 ## Introduction
 
