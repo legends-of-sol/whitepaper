@@ -1,6 +1,12 @@
 
 # Legends of SOL Whitepaper - v0.1.0
 
+## Key links
+
+- **Website:** [LegendsOfSOL.com](https://LegendsOfSOL.com)
+- **Twitter:** [twitter.com/Legends_of_SOL](https://twitter.com/Legends_of_SOL)
+- **Discord:** [discord.gg/hPq4RCzeeD](https://discord.gg/hPq4RCzeeD)
+
 ## Introduction
 
 Legends of SOL is a project that launched with the aim to airdrop a token called [$LEGEND](https://birdeye.so/token/LGNDeXXXaDDeRerwwHfUtPBNz5s6vrn1NMSt9hdaCwx?chain=solana), to projects and members of the Solana community who had been active throughout the bear market of 2022-23 to recognize and capture a snapshot of the community before the onset of the next bull market. This whitepaper outlines the project's history of the airdrop, tokenomics, the unique "The Choice" NFT, and our future plans for design and delivery of NFT tooling to add value to our partner projects through building a circular economy based on upgrading NFT traits.
@@ -53,9 +59,25 @@ Our project is driven by a diverse and talented team of seasoned Solana holders,
 
 The success of Legends to date is primarily because of the team. Since we first started the project in January 2024, the team has grown and strengthened into a very tight knit unit with daily comms and weekly video chat held via Discord.
 
-## Tokenomics
+## Discord Community
 
-### $LEGEND Token
+Invite Link: [discord.gg/hPq4RCzeeD](https://discord.gg/hPq4RCzeeD)
+
+The Legends of SOL Discord community has been a cornerstone of our project, providing a vibrant platform for engagement, support, and collaboration. With over 2,273 members and growing, our Discord has become a hub for discussions, announcements, and community-driven initiatives. Here's a brief overview of our Discord community's growth and activities:
+
+- **Member Growth:** Since the launch of Legends of SOL, our Discord community has seen a significant increase in membership, with 2,273 new members joining the ranks of Legends. This growth is a testament to the project's appeal and the engaging environment we've fostered.
+
+- **Engagement:** Our community is highly active, with members participating in discussions across various channels. From general chat to specific topics related to NFTs, tokenomics, and development updates, there's always a robust conversation happening.
+
+- **Support and Collaboration:** The Discord server serves as a primary support channel for our members. Whether it's technical assistance, questions about the project, or ideas for collaboration, our team and community are always ready to help.
+
+- **Exclusive Access and Announcements:** Members of our Discord community with NFT based roles enjoy early access to announcements, sneak peeks at upcoming features, and the opportunity to participate in community-exclusive events and airdrops.
+
+- **Community-Driven Initiatives:** Our Discord has been instrumental in organizing and executing community-driven initiatives, such as the code cracking competition and discussions around The Choice NFT and its future developments.
+
+As Legends of SOL continues to evolve, our Discord community remains at the heart of our project, driving engagement, fostering innovation, and building a strong, supportive network of Legends. Join us on this exciting journey and become part of a community that's shaping the future of NFTs and the Sol
+
+## $LEGEND Tokenomics
 
 The $LEGEND token serves as the primary currency within the Legends of SOL ecosystem, facilitating transactions, access to exclusive roles/features, and community decision-making. With a max total supply of 4,206,969,420 tokens, $LEGEND's distribution was carefully planned to ensure a balanced ecosystem. The tokenomics include allocations for airdrops, community rewards, and a development fund to support ongoing growth and partnerships.
 
@@ -79,9 +101,13 @@ The $LEGEND token serves as the primary currency within the Legends of SOL ecosy
 - **Team:** ℒ841,393,600 $LEGEND tokens (20%) - 30% initial with 16M vest with linear unlock. 70% for ongoing work paid monthly.
 - **Total:** ℒ4,206,968,002 $LEGEND tokens.
 
-## The Choice NFT
+## Future Plans
 
-"The Choice" NFT is now the keystone to the Legends of SOL universe. It is the primary signifier for $LEGEND holders, unlocking full access to the Legends community through [PubKey](https://github.com/pubkeyapp) certification. "The Choice" NFT comes with several key features:
+As Legends of SOL continues to evolve we have a clear vision for the future of the project. Our vision is to not only enhance the value and utility of "The Choice" NFT within our ecosystem but also to deliver innovative features that revolutionize the NFT landscape on Solana. By introducing dynamic, hot-swappable traits and leveraging sentiment analysis for deeper market insights, our future plans are designed to foster a sustainable, vibrant, and interconnected community trait market place. Here, we outline the key initiatives that will drive the next phase of growth for Legends of SOL, building on our huge initial successes to date.
+
+### The Choice NFT
+
+"The Choice" NFT is the keystone to the Legends of SOL universe. It is the primary signifier for members Legends of SOL, unlocking full access to the Legends community through [PubKey](https://github.com/pubkeyapp) certification. "The Choice" NFT comes with several key features:
 
 - **PubKey Certification:** Discord members validate their Choice NFT trhough [PubKey](https://github.com/pubkeyapp), unlocking full access to the insider Legends discord channels.
 - **Hot Swappable Traits:** (In progress) Owners can change the traits of their NFT, allowing for customization and personalization.
@@ -91,9 +117,23 @@ The $LEGEND token serves as the primary currency within the Legends of SOL ecosy
   - **Rare Traits:** These traits are harder to come by and offer distinctive customization options.
   - **Epic Traits:** Even more unique and valuable, epic traits provide significant customization and rarity.
   - **Legendary Traits:** Priced at ℒ420690 each, these traits offer highly unique and distinctive customization options, adding significant value and rarity.
-  - **MYTHIC Trait:** A single, extremely rare trait named "The King Without Choices," available at a to-be-determined price. This trait adds a layer of mystique and exclusivity.
-- **Economic Utility:** Traits can be purchased with $LEGEND tokens, introducing a dynamic economy within the ecosystem.
+  - **MYTHIC Trait:** A single, extremely rare trait named "The King Without Choices," available at a to-be-determined price.
+- **Economic Utility:** Traits can be purchased with $LEGEND tokens, and will be able to be sold via a trait market place, and created for partners and events, introducing a circular economy for traits within the Solana NFT ecosystem.
 
-## Future Plans and Conclusion
+### The Chooser
 
-Looking ahead, Legends of SOL is committed to expanding the utility of $LEGEND tokens and "The Choice" NFT, through partnerships, and enhancing the platform to meet the needs of our 2K Discord community members, 72 distinct project partners, and 65K project community members. The project aims to be a leading force in the NFT space, driving value for holders and contributing to the Solana ecosystem by super-charging NFT traits. Legends of SOL is an authentic project, with a strong brand within Solana, poised to create unparalleled value for its community and all other Solana NFT projects we have partnered with.
+In our pursuit to redefine the Solana NFT landscape, we are excited to introduce "The Chooser" - an innovative platform that will allow NFT owners to personalize and upgrade their NFTs with hot-swappable traits. This groundbreaking feature promises to add a new layer of interactivity and customization, making each NFT not just a piece of art but a reflection of its owner's unique identity and choices.
+
+### Sentiment Analysis of NFTs
+
+Recognizing the dynamic nature of the NFT market, Legends of SOL is set to embark on a novel approach to understanding and leveraging market sentiment. By developing tools and platforms that analyze sentiment data, we aim to provide our community and partners with actionable insights that go beyond traditional transactional data. This sentiment-driven analysis will empower creators and collectors alike, fostering a more connected and responsive ecosystem.
+
+### Sustainable Ecosystem Growth
+
+Our future plans are primarily focused to creating a circular NFT economy based on traits for stakeholders. Through strategic partnerships, continuous platform enhancements, and a commitment to adding value, Legends of SOL is poised to lead the charge in the next wave of NFT evolution. We are dedicated to building a legacy that transcends the current market trends, focusing on long-term growth and the continuous delivery of value to our community and the Solana ecosystem at large.
+
+## Conclusion
+
+With a strong seasoned team, a high profile brand within Solana and a clear vision for the future, we are on a path to creating unparalleled value for our community and all Solana NFT projects we have partnered with. Join us as we embark on this exciting journey to reshape the Solana NFT landscape and super-charge the potential of every NFT project within the Solana ecosystem.
+
+LFG! 🚀🚀🚀
